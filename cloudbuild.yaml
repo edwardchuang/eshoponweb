@@ -48,3 +48,4 @@ tags:
   - gcp-cloud-build-deploy-cloud-run
   - gcp-cloud-build-deploy-cloud-run-managed
   - eshop-on-web
+timeout: 1800s
